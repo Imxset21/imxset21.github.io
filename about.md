@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Cornell University 2014, Computer Science B.A. Software Engineering specialization.
 
-### More Information
+I currently work as a software developer over at the [Computational Physiology Lab @ Cornell](http://cplab.net/people/pedro-rittner-programmer/).
 
-A place to include any other types of information that you'd like to include about yourself.
+I like Python, C, C++, Java, OCaml.
+
+I'd like to learn more Haskell, Rust, and Ruby.
+
+I'm not really a web developer. Systems is more my thing.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pedro.rittner@outlook.com](mailto:pedro.rittner@outlook.com)
